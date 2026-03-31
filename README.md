@@ -47,7 +47,7 @@
 ║    -> Terraform Modules & Remote State Management            ║
 ║    -> GitOps Workflows with ArgoCD                           ║
 ╠══════════════════════════════════════════════════════════════╣
-║  open_to    :  Internships  ·  Collaborations  ·  Full-Time  ║
+║  open_to    :            Collaborations                      ║
 ║  philosophy :  "Automate once. Scale infinitely."            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>📦 Containers</b></td>
+    <td align="center"><b> Containers</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🔄 CI/CD</b></td>
+    <td align="center"><b> CI/CD</b></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
@@ -87,21 +87,21 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🏗️ IaC</b></td>
+    <td align="center"><b> IaC</b></td>
     <td>
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>📊 Monitoring</b></td>
+    <td align="center"><b> Monitoring</b></td>
     <td>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>💻 Languages</b></td>
+    <td align="center"><b> Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
@@ -109,7 +109,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🖥️ Tools</b></td>
+    <td align="center"><b> Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
