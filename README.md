@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- HEADER WAVE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Sohel%20Mohammed&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=60&descSize=20&descColor=8b949e" width="100%" />
 </div>
@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelmohammed0)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohelmohammed0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sohel879879@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sohelmohammed0&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/sohelmohammed0)
+![Profile Views](https://img.shields.io/endpoint?url=https://hits.dwyl.com/sohelmohammed0/sohelmohammed0.json&style=flat-square&label=Profile+Views&color=58A6FF)
 
 </div>
 
@@ -112,11 +112,6 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohelmohammed0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelmohammed0&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=sohelmohammed0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
@@ -138,21 +133,6 @@
 
 ---
 
-## 📜 Certification Roadmap
-
-<div align="center">
-
-| # | Certification | Issuer | Status |
-|:---:|:---|:---:|:---:|
-| 01 | ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) | Amazon Web Services | 🔄 **In Progress** |
-| 02 | ![Docker](https://img.shields.io/badge/Docker_Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white) | Docker Inc. | 🎯 Q3 2025 |
-| 03 | ![CKA](https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | CNCF | 🎯 Q4 2025 |
-| 04 | ![Terraform](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white) | HashiCorp | 🎯 Q1 2026 |
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -165,7 +145,7 @@
 
 ---
 
-<!-- FOOTER -->
+<!-- FOOTER WAVE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=footer" width="100%" />
 </div>
