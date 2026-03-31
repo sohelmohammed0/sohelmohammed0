@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelmohammed0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohel879879@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohelmohammed0)
-[![Profile Views](https://visitcount.itsveronika.dev/api/badge?id=sohelmohammed0&label=Profile%20Views&color=58a6ff&icon=0&pretty=true)](https://visitcount.itsveronika.dev)
+![Profile Views](https://visitcount.itsveronika.dev/api/badge?id=sohelmohammed0&label=Profile%20Views&color=00adb5&icon=5&pretty=false)
 
 </div>
 
