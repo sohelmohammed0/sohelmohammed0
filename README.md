@@ -179,5 +179,7 @@
 <div align="center">
   <sub>⚡ Crafted with precision · Powered by curiosity · Driven by automation</sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=160&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontColor=8b949e&fontAlignY=60" width="100%" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=sohelmohammed0&label=Unique+Profile+Views&color=0e75b6&style=for-the-badge" />
 </div>
