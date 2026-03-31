@@ -1,18 +1,21 @@
+<!-- HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sohel%20Mohammed&fontSize=60&fontColor=fff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20Hyderabad%2C%20India&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=200&section=header&text=Sohel%20Mohammed&fontSize=55&fontColor=58A6FF&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=60&descSize=20&descColor=8b949e" width="100%" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;🔄+CI%2FCD+%7C+GitOps+%7C+Infrastructure+as+Code;🚀+Automating+everything+that+can+be+automated;📡+Building+resilient%2C+scalable+cloud+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Cloud+Infrastructure+%7C+AWS+%7C+Terraform;Container+Orchestration+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipelines+%7C+GitOps+%7C+ArgoCD;Automate+once.+Scale+infinitely.+Sleep+well.)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelmohammed0)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohelmohammed0)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sohel879879@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelmohammed0)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohelmohammed0)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sohel879879@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sohelmohammed0&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/sohelmohammed0)
 
 </div>
@@ -26,118 +29,81 @@
 ║                       ~ whoami ~                             ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  name       :  Sohel Mohammed                                ║
-║  location   :  Hyderabad, India 🇮🇳                          ║
+║  location   :  Hyderabad, India                              ║
 ║  role       :  Aspiring DevOps & Cloud Engineer              ║
 ║  contact    :  sohel879879@gmail.com                         ║
 ╠══════════════════════════════════════════════════════════════╣
-║  focus      :                                                ║
-║    → Cloud Infrastructure & Architecture  (AWS)              ║
-║    → Container Orchestration  (Docker & Kubernetes)          ║
-║    → CI/CD Pipeline Design & Automation                      ║
-║    → Infrastructure as Code  (Terraform & Ansible)           ║
+║  focus:                                                      ║
+║    -> Cloud Infrastructure & Architecture  (AWS)             ║
+║    -> Container Orchestration  (Docker & Kubernetes)         ║
+║    -> CI/CD Pipeline Design & Automation                     ║
+║    -> Infrastructure as Code  (Terraform & Ansible)          ║
 ╠══════════════════════════════════════════════════════════════╣
-║  learning   :                                                ║
-║    → Advanced Kubernetes & Helm Charts                       ║
-║    → Terraform Modules & Remote State Management             ║
-║    → GitOps Workflows with ArgoCD                            ║
+║  learning:                                                   ║
+║    -> Advanced Kubernetes & Helm Charts                      ║
+║    -> Terraform Modules & Remote State Management            ║
+║    -> GitOps Workflows with ArgoCD                           ║
 ╠══════════════════════════════════════════════════════════════╣
-║  open_to    :  Internships · Collaborations · Full-Time      ║
-║  philosophy :  "Automate once. Scale infinitely. Sleep well."║
+║  open_to    :  Internships  Collaborations  Full-Time        ║
+║  philosophy :  "Automate once. Scale infinitely."            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform&theme=dark" />
-</div>
 
-<br/>
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
-
----
 
 ### 🔄 CI/CD & GitOps
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible&theme=dark" />
-</div>
 
-<br/>
-
-<div align="center">
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 </div>
-
----
 
 ### 💻 Languages & Scripting
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git&theme=dark" />
-</div>
 
-<br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
 
 ### 📊 Monitoring & Observability
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-</div>
 
-<br/>
-
-<div align="center">
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
-
----
 
 ### 🖥️ OS & Developer Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,vim&theme=dark" />
-</div>
 
-<br/>
-
-<div align="center">
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
 
@@ -146,14 +112,12 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sohelmohammed0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelmohammed0&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohelmohammed0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelmohammed0&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=sohelmohammed0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=sohelmohammed0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
 </div>
 
 ---
@@ -166,10 +130,25 @@
 
 ---
 
-## 📉 Contribution Activity
+## 📉 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohelmohammed0&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohelmohammed0&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" />
+</div>
+
+---
+
+## 📜 Certification Roadmap
+
+<div align="center">
+
+| # | Certification | Issuer | Status |
+|:---:|:---|:---:|:---:|
+| 01 | ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) | Amazon Web Services | 🔄 **In Progress** |
+| 02 | ![Docker](https://img.shields.io/badge/Docker_Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white) | Docker Inc. | 🎯 Q3 2025 |
+| 03 | ![CKA](https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | CNCF | 🎯 Q4 2025 |
+| 04 | ![Terraform](https://img.shields.io/badge/Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white) | HashiCorp | 🎯 Q1 2026 |
+
 </div>
 
 ---
@@ -178,24 +157,15 @@
 
 <div align="center">
 
-<a href="mailto:sohel879879@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/sohelmohammed0">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/sohelmohammed0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohel879879@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelmohammed0)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohelmohammed0)
 
 </div>
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=footer" width="100%" />
 </div>
