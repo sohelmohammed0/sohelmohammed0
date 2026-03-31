@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohelmohammed0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohel879879@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohelmohammed0)
-![Profile Views](https://visitcount.itsveronika.dev/api/badge?id=sohelmohammed0&label=Profile%20Views&color=00adb5&icon=5&pretty=false)
+![Profile Views](https://komarev.com/ghpvc/?username=sohelmohammed0&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -62,9 +62,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="130">
-      <b>☁️ Cloud</b>
-    </td>
+    <td align="center" width="130"><b>☁️ Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
       <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
@@ -73,9 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>📦 Containers</b>
-    </td>
+    <td align="center"><b>📦 Containers</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -83,9 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🔄 CI/CD</b>
-    </td>
+    <td align="center"><b>🔄 CI/CD</b></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
@@ -93,27 +87,21 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🏗️ IaC</b>
-    </td>
+    <td align="center"><b>🏗️ IaC</b></td>
     <td>
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>📊 Monitoring</b>
-    </td>
+    <td align="center"><b>📊 Monitoring</b></td>
     <td>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>💻 Languages</b>
-    </td>
+    <td align="center"><b>💻 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
@@ -121,9 +109,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🖥️ Tools</b>
-    </td>
+    <td align="center"><b>🖥️ Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
@@ -192,4 +178,6 @@
 
 <div align="center">
   <sub>⚡ Crafted with precision · Powered by curiosity · Driven by automation</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=footer" width="100%" />
 </div>
