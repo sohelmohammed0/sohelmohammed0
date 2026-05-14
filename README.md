@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d62,60:1a5276,100:0d1117&height=300&section=header&text=SOHEL%20MOHAMMED&fontSize=60&fontColor=00d4ff&fontAlignY=45&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20Hyderabad%2C%20India&descSize=18&descAlignY=68&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%E2%9A%99%EF%B8%8F+Automating+everything+that+can+be+automated;%F0%9F%8C%A9%EF%B8%8F+Architecting+resilient+cloud+infrastructure;%F0%9F%90%B3+Orchestrating+containers+at+scale;%F0%9F%94%A5+Building+GitOps+pipelines+that+just+work;%F0%9F%9A%80+Shipping+fast.+Breaking+nothing.)](https://git.io/typing-svg)
 
 </div>
